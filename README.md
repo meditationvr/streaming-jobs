@@ -5,3 +5,8 @@ This repository contains a Spark Streaming + Spark ML job that consumes data fro
 ## Getting Started
 
 * To run this api just follow the steps on [compose](https://github.com/MeditationVR/compose)
+
+
+## License
+
+* Check [LICENSE.md](https://github.com/meditationvr/streaming-jobs/blob/master/LICENSE.md) for more details
